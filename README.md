@@ -1,5 +1,8 @@
 # hyper-drop-shadow
 
+[![NPM version](https://badge.fury.io/js/hyper-drop-shadow.svg)](https://www.npmjs.com/package/hyper-drop-shadow)
+![Downloads](https://img.shields.io/npm/dm/hyper-drop-shadow.svg?style=flat)
+
 Simple plugin that disable the drop shadow on macOs.
 
 ## Install

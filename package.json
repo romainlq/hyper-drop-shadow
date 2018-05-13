@@ -1,0 +1,24 @@
+{
+  "name": "hyper-drop-shadow",
+  "version": "1.0.0",
+  "description": "Simple plugin that disable the drop shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainwn/hyper-drop-shadow"
+  },
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "author": "Romain Le Quellec",
+  "license": "MIT",
+  "homepage": "https://github.com/romainwn/hyper-drop-shadow.git#readme",
+  "bugs": {
+    "url": "https://github.com/romainwn/hyper-drop-shadow/issues"
+  }
+}

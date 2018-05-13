@@ -5,6 +5,8 @@
 
 Simple plugin that disable the drop shadow on macOs.
 
+![hhyper-drop-shadow](https://user-images.githubusercontent.com/13620579/39968964-ab492f34-56d5-11e8-8a5f-bde1e4225230.gif)
+
 ## Install
 
 ### Using hyper
